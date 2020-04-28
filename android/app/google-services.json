@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1078134654583",
+    "firebase_url": "https://wax-2-adcb6.firebaseio.com",
+    "project_id": "wax-2-adcb6",
+    "storage_bucket": "wax-2-adcb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078134654583:android:e9c6c5cbd73eb3dc5d6872",
+        "android_client_info": {
+          "package_name": "com.example.provider_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078134654583-dlmtde82q2s90q4gum54q812f5eu75cv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNhk2IFeb0vlFlvX4OoMgbl_3bC2LInQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078134654583-dlmtde82q2s90q4gum54q812f5eu75cv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
